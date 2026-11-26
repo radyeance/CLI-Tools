@@ -1,0 +1,12 @@
+{
+  "name": "cli-todo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=config.env src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "process.argv, fs, JSON, modules, environment variables"
+}
